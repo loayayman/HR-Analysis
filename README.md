@@ -1,4 +1,4 @@
-# 📊 Atlas Labs HR Dashboard Analysis
+# 📊 HR Analysis
 
 ## 🌟 Introduction
 The goal of this project is to analyze key Human Resources (HR) metrics for **Atlas Labs**.  
@@ -133,5 +133,6 @@ Loay Ayman
 GitHub: [Loay Ayman](https://github.com/loayayman)
 
 LinkedIn: [Loay Ayman](https://www.linkedin.com/in/loayaymaan/)
+
 
 
