@@ -47,7 +47,8 @@ Place your screenshots inside a folder named `/images` in the repo, then link th
 <img width="1330" height="747" alt="1 Overview" src="https://github.com/user-attachments/assets/714726d9-905a-481e-8d78-ba741d382015" />
 
 #### Demographics
-<img width="1327" height="740" alt="2 Demographics" src="https://github.com/user-attachments/assets/d2907b1e-853d-4b0a-b58e-4076ca6eb704" />
+<img width="1327" height="740" alt="2 Demographics" src="https://github.com/user-attachments/assets/d9985e35-d198-4dc5-8200-433a7fb58ac9" />
+
 
 #### Performance Tracker
 <img width="1326" height="745" alt="3 Performance Tracker" src="https://github.com/user-attachments/assets/e726cbbf-663d-49ac-802b-04e67c2d9f55" />
@@ -133,6 +134,7 @@ Loay Ayman
 GitHub: [Loay Ayman](https://github.com/loayayman)
 
 LinkedIn: [Loay Ayman](https://www.linkedin.com/in/loayaymaan/)
+
 
 
 
